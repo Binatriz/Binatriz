@@ -4,22 +4,22 @@
 🌱 Estudando HTML, CSS, JavaScript e Angular  
 ⚡Sempre em busca de evolução contínua 
 
-<div style="display: flex; gap: 30px; align-items: center; margin-top: 20px;">
-  <div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; gap: 30px; align-items: flex-start; margin-top: 20px;">
+  <div style="text-align: center;">
     <img alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <p style="margin: 0;">HTML5</p>
+    <p style="margin-top: 5px;">HTML5</p>
   </div>
-  <div style="display: flex; align-items: center; gap: 10px;">
+  <div style="text-align: center;">
     <img alt="CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <p style="margin: 0;">CSS3</p>
+    <p style="margin-top: 5px;">CSS3</p>
   </div>
-  <div style="display: flex; align-items: center; gap: 10px;">
+  <div style="text-align: center;">
     <img alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <p style="margin: 0;">JavaScript</p>
+    <p style="margin-top: 5px;">JavaScript</p>
   </div>
-  <div style="display: flex; align-items: center; gap: 10px;">
+  <div style="text-align: center;">
     <img alt="Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-    <p style="margin: 0;">Angular</p>
+    <p style="margin-top: 5px;">Angular</p>
   </div>
 </div>
 
