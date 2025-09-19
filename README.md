@@ -17,12 +17,11 @@
     <img alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <p style="margin-top: 5px;">JavaScript</p>
   </div>
-  
+  <div style="text-align: center;">
     <img alt="Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
     <p style="margin-top: 5px;">Angular</p>
-  
+  </div>
 </div>
-
 ---
 
 <div> 
